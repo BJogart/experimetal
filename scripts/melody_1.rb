@@ -38,4 +38,3 @@ in_thread(name: :save) do
   #change the path in the next command to suit your system and usernames
   osc_send 'localhost',51235, '/save-recording','myGUID', save_file
 end
-
