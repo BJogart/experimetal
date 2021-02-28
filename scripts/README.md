@@ -25,16 +25,16 @@ g
 ## Sample to do list
 |Feature|Category|Number|
 |:-|:-|-:|
-|Rhythm|even|01|
-|Rhythm|even|02|
-|Rhythm|even|03|
-|Rhythm|even|04|
-|Rhythm|even|05|
-|Rhythm|even|06|
-|Rhythm|even|07|
-|Rhythm|even|08|
-|Rhythm|even|09|
-|Rhythm|even|10|
+|Rhythm|even|01|V|
+|Rhythm|even|02|V|
+|Rhythm|even|03|V|
+|Rhythm|even|04|V|
+|Rhythm|even|05|V|
+|Rhythm|even|06|V|
+|Rhythm|even|07|V|
+|Rhythm|even|08|V|
+|Rhythm|even|09|V|
+|Rhythm|even|10|V|
 |Rhythm|rand|01|
 |Rhythm|rand|02|
 |Rhythm|rand|03|
