@@ -23,8 +23,8 @@ g
 |Okko|ok|
 
 ## Sample to do list
-|Feature|Category|Number|
-|:-|:-|-:|
+|Feature|Category|Number|Completed|
+|:-|:-|:-|-:|
 |Rhythm|even|01|V|
 |Rhythm|even|02|V|
 |Rhythm|even|03|V|
