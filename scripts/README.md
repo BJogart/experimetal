@@ -56,7 +56,6 @@ g
 |Rhythm|mix|09|
 |Rhythm|mix|10|
 
-> add the same thing for pitch once we got the book from Makiko
 |Feature|Category|Number|Completed|
 |:-|:-|:-|-:|
 |Pitch|even|01|
