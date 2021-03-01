@@ -57,65 +57,65 @@ g
 |Rhythm|mix|10|
 
 > add the same thing for pitch once we got the book from Makiko
-|Pitch|even|01
-|Pitch|even|02
-|Pitch|even|03
-|Pitch|even|04
-|Pitch|even|05
-|Pitch|even|06
-|Pitch|even|07
-|Pitch|even|08
-|Pitch|even|09
-|Pitch|even|10
-|Pitch|rand|01
-|Pitch|rand|02
-|Pitch|rand|03
-|Pitch|rand|04
-|Pitch|rand|05
-|Pitch|rand|06
-|Pitch|rand|07
-|Pitch|rand|08
-|Pitch|rand|09
-|Pitch|rand|10
-|Pitch|mix|01
-|Pitch|mix|02
-|Pitch|mix|03
-|Pitch|mix|04
-|Pitch|mix|05
-|Pitch|mix|06
-|Pitch|mix|07
-|Pitch|mix|08
-|Pitch|mix|09
-|Pitch|mix|10 
+|Pitch|even|01|
+|Pitch|even|02|
+|Pitch|even|03|
+|Pitch|even|04|
+|Pitch|even|05|
+|Pitch|even|06|
+|Pitch|even|07|
+|Pitch|even|08|
+|Pitch|even|09|
+|Pitch|even|10|
+|Pitch|rand|01|
+|Pitch|rand|02|
+|Pitch|rand|03|
+|Pitch|rand|04|
+|Pitch|rand|05|
+|Pitch|rand|06|
+|Pitch|rand|07|
+|Pitch|rand|08|
+|Pitch|rand|09|
+|Pitch|rand|10|
+|Pitch|mix|01|
+|Pitch|mix|02|
+|Pitch|mix|03|
+|Pitch|mix|04|
+|Pitch|mix|05|
+|Pitch|mix|06|
+|Pitch|mix|07|
+|Pitch|mix|08|
+|Pitch|mix|09|
+|Pitch|mix|10|
 
-|Combi Rhythm & Pitch|even|01
-|Combi Rhythm & Pitch|even|02
-|Combi Rhythm & Pitch|even|03
-|Combi Rhythm & Pitch|even|04
-|Combi Rhythm & Pitch|even|05
-|Combi Rhythm & Pitch|even|06
-|Combi Rhythm & Pitch|even|07
-|Combi Rhythm & Pitch|even|08
-|Combi Rhythm & Pitch|even|09
-|Combi Rhythm & Pitch|even|10
-|Combi Rhythm & Pitch|rand|01
-|Combi Rhythm & Pitch|rand|02
-|Combi Rhythm & Pitch|rand|03
-|Combi Rhythm & Pitch|rand|04
-|Combi Rhythm & Pitch|rand|05
-|Combi Rhythm & Pitch|rand|06
-|Combi Rhythm & Pitch|rand|07
-|Combi Rhythm & Pitch|rand|08
-|Combi Rhythm & Pitch|rand|09
-|Combi Rhythm & Pitch|rand|10
-|Combi Rhythm & Pitch|mix|01
-|Combi Rhythm & Pitch|mix|02
-|Combi Rhythm & Pitch|mix|03
-|Combi Rhythm & Pitch|mix|04
-|Combi Rhythm & Pitch|mix|05
-|Combi Rhythm & Pitch|mix|06
-|Combi Rhythm & Pitch|mix|07
-|Combi Rhythm & Pitch|mix|08
-|Combi Rhythm & Pitch|mix|09
-|Combi Rhythm & Pitch|mix|10 
+|Combi Rhythm & Pitch|even|01|
+|Combi Rhythm & Pitch|even|02|
+|Combi Rhythm & Pitch|even|03|
+|Combi Rhythm & Pitch|even|04|
+|Combi Rhythm & Pitch|even|05|
+|Combi Rhythm & Pitch|even|06|
+|Combi Rhythm & Pitch|even|07|
+|Combi Rhythm & Pitch|even|08|
+|Combi Rhythm & Pitch|even|09|
+|Combi Rhythm & Pitch|even|10|
+|Combi Rhythm & Pitch|rand|01|
+|Combi Rhythm & Pitch|rand|02|
+|Combi Rhythm & Pitch|rand|03|
+|Combi Rhythm & Pitch|rand|04|
+|Combi Rhythm & Pitch|rand|05|
+|Combi Rhythm & Pitch|rand|06|
+|Combi Rhythm & Pitch|rand|07|
+|Combi Rhythm & Pitch|rand|08|
+|Combi Rhythm & Pitch|rand|09|
+|Combi Rhythm & Pitch|rand|10|
+|Combi Rhythm & Pitch|mix|01|
+|Combi Rhythm & Pitch|mix|02|
+|Combi Rhythm & Pitch|mix|03|
+|Combi Rhythm & Pitch|mix|04|
+|Combi Rhythm & Pitch|mix|05|
+|Combi Rhythm & Pitch|mix|06|
+|Combi Rhythm & Pitch|mix|07|
+|Combi Rhythm & Pitch|mix|08|
+|Combi Rhythm & Pitch|mix|09|
+|Combi Rhythm & Pitch|mix|10|
 
