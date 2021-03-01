@@ -57,6 +57,8 @@ g
 |Rhythm|mix|10|
 
 > add the same thing for pitch once we got the book from Makiko
+|Feature|Category|Number|Completed|
+|:-|:-|:-|-:|
 |Pitch|even|01|
 |Pitch|even|02|
 |Pitch|even|03|
@@ -88,6 +90,8 @@ g
 |Pitch|mix|09|
 |Pitch|mix|10|
 
+|Feature|Category|Number|Completed|
+|:-|:-|:-|-:|
 |Combi Rhythm & Pitch|even|01|
 |Combi Rhythm & Pitch|even|02|
 |Combi Rhythm & Pitch|even|03|
