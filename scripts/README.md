@@ -111,11 +111,11 @@ g
 |Combi Rhythm & Pitch|rand|08|
 |Combi Rhythm & Pitch|rand|09|
 |Combi Rhythm & Pitch|rand|10|
-|Combi Rhythm & Pitch|mix|01|
-|Combi Rhythm & Pitch|mix|02|
-|Combi Rhythm & Pitch|mix|03|
-|Combi Rhythm & Pitch|mix|04|
-|Combi Rhythm & Pitch|mix|05|
+|Combi Rhythm & Pitch|mix|01|V|
+|Combi Rhythm & Pitch|mix|02|V|
+|Combi Rhythm & Pitch|mix|03|V|
+|Combi Rhythm & Pitch|mix|04|V|
+|Combi Rhythm & Pitch|mix|05|V|
 |Combi Rhythm & Pitch|mix|06|
 |Combi Rhythm & Pitch|mix|07|
 |Combi Rhythm & Pitch|mix|08|
