@@ -91,12 +91,12 @@ g
 
 |Feature|Category|Number|Completed|
 |:-|:-|:-|-:|
-|Combi Rhythm & Pitch|even|01|
-|Combi Rhythm & Pitch|even|02|
-|Combi Rhythm & Pitch|even|03|
-|Combi Rhythm & Pitch|even|04|
-|Combi Rhythm & Pitch|even|05|
-|Combi Rhythm & Pitch|even|06|
+|Combi Rhythm & Pitch|even|01|V|
+|Combi Rhythm & Pitch|even|02|V|
+|Combi Rhythm & Pitch|even|03|V|
+|Combi Rhythm & Pitch|even|04|V|
+|Combi Rhythm & Pitch|even|05|V|
+|Combi Rhythm & Pitch|even|06|V|
 |Combi Rhythm & Pitch|even|07|
 |Combi Rhythm & Pitch|even|08|
 |Combi Rhythm & Pitch|even|09|
