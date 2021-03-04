@@ -101,11 +101,11 @@ g
 |Combi Rhythm & Pitch|even|08|
 |Combi Rhythm & Pitch|even|09|
 |Combi Rhythm & Pitch|even|10|
-|Combi Rhythm & Pitch|rand|01|
-|Combi Rhythm & Pitch|rand|02|
-|Combi Rhythm & Pitch|rand|03|
-|Combi Rhythm & Pitch|rand|04|
-|Combi Rhythm & Pitch|rand|05|
+|Combi Rhythm & Pitch|rand|01|V|
+|Combi Rhythm & Pitch|rand|02|V|
+|Combi Rhythm & Pitch|rand|03|V|
+|Combi Rhythm & Pitch|rand|04|V|
+|Combi Rhythm & Pitch|rand|05|V|
 |Combi Rhythm & Pitch|rand|06|
 |Combi Rhythm & Pitch|rand|07|
 |Combi Rhythm & Pitch|rand|08|
