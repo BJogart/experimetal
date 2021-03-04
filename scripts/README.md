@@ -97,9 +97,9 @@ g
 |Combi Rhythm & Pitch|even|04|V|
 |Combi Rhythm & Pitch|even|05|V|
 |Combi Rhythm & Pitch|even|06|V|
-|Combi Rhythm & Pitch|even|07|
-|Combi Rhythm & Pitch|even|08|
-|Combi Rhythm & Pitch|even|09|
+|Combi Rhythm & Pitch|even|07|V|
+|Combi Rhythm & Pitch|even|08|V|
+|Combi Rhythm & Pitch|even|09|V|
 |Combi Rhythm & Pitch|even|10|
 |Combi Rhythm & Pitch|rand|01|V|
 |Combi Rhythm & Pitch|rand|02|V|
@@ -119,6 +119,6 @@ g
 |Combi Rhythm & Pitch|mix|06|
 |Combi Rhythm & Pitch|mix|07|
 |Combi Rhythm & Pitch|mix|08|
-|Combi Rhythm & Pitch|mix|09|
-|Combi Rhythm & Pitch|mix|10|
+|Combi Rhythm & Pitch|mix|09|V|
+|Combi Rhythm & Pitch|mix|10|V|
 
