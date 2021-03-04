@@ -60,7 +60,7 @@ g
 |:-|:-|:-|-:|
 |Pitch|even|01|V|
 |Pitch|even|02|V|
-|Pitch|even|03||
+|Pitch|even|03|V|
 |Pitch|even|04||
 |Pitch|even|05||
 |Pitch|even|06||
