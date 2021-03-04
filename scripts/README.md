@@ -45,16 +45,16 @@ g
 |Rhythm|rand|08|V|
 |Rhythm|rand|09|V|
 |Rhythm|rand|10|V|
-|Rhythm|mix|01|
-|Rhythm|mix|02|
-|Rhythm|mix|03|
-|Rhythm|mix|04|
-|Rhythm|mix|05|
-|Rhythm|mix|06|
-|Rhythm|mix|07|
-|Rhythm|mix|08|
-|Rhythm|mix|09|
-|Rhythm|mix|10|
+|Rhythm|mix|01|V|
+|Rhythm|mix|02|V|
+|Rhythm|mix|03|V|
+|Rhythm|mix|04|V|
+|Rhythm|mix|05|V|
+|Rhythm|mix|06|V|
+|Rhythm|mix|07|V|
+|Rhythm|mix|08|V|
+|Rhythm|mix|09|V|
+|Rhythm|mix|10|V|
 
 |Feature|Category|Number|Completed|
 |:-|:-|:-|-:|
