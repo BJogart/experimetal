@@ -27,7 +27,6 @@ ant5 = [0, 2, 4, 5, 7, 9, 11, 13]
 ant7 = [0, 2, 4, 5, 7, 9, 11, 13]
 ant9 = [0, 2, 4, 5, 7, 9, 11, 13]
 ant11 = [0, 2, 4, 5, 7, 9, 11, 13]
-antr = [0, 2, 4, 5, 7, 9, 11, 13]
 
 use_random_seed SEED
 
@@ -40,8 +39,7 @@ define :play_random do |r, t, intervals|
   n = ant7.choose if t == 7
   n = ant9.choose if t == 9
   n = ant11.choose if t == 11
-  n = antr.choose if t == 13
-  play r + n, release: tempo if n != 13
+  play r + n, release: tempo 
   sleep tempo
   return n
 end
