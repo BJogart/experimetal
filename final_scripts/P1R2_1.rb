@@ -21,14 +21,13 @@ SEED = 3
 # rest. (the absence of a note.)
 
 # uniform distributions
-ant0 = [0, 2, 4, 5, 7, 9, 11, 13]
-ant2 = [0, 2, 4, 5, 7, 9, 11, 13]
-ant4 = [0, 2, 4, 5, 7, 9, 11, 13]
-ant5 = [0, 2, 4, 5, 7, 9, 11, 13]
-ant7 = [0, 2, 4, 5, 7, 9, 11, 13]
-ant9 = [0, 2, 4, 5, 7, 9, 11, 13]
-ant11 = [0, 2, 4, 5, 7, 9, 11, 13]
-antr = [0, 2, 4, 5, 7, 9, 11, 13]
+ant0 = [0,2,4,5,7,9,11]
+ant2 = [0,2,4,5,7,9,11]
+ant4 = [0,2,4,5,7,9,11]
+ant5 = [0,2,4,5,7,9,11]
+ant7 = [0,2,4,5,7,9,11]
+ant9 = [0,2,4,5,7,9,11]
+ant11 = [0,2,4,5,7,9,11]
 
 use_random_seed SEED
 
@@ -40,8 +39,7 @@ define :play_random do |r, t, tempo|
   n = ant7.choose if t == 7
   n = ant9.choose if t == 9
   n = ant11.choose if t == 11
-  n = antr.choose if t == 13
-  play r + n, release: tempo if n != 13
+  play r + n, release: tempo 
   sleep tempo
   return n
 end
