@@ -38,7 +38,6 @@ define :play_random do |r, t|
   n = ant7.choose if t == 7
   n = ant9.choose if t == 9
   n = ant11.choose if t == 11
-  n = antr.choose if t == 13
   play r + n, release: TEMPO if n != 13
   return n
 end
