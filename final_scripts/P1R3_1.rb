@@ -47,5 +47,4 @@ end
 n = 0
 loop do
   n = play_random(TONIC, n, INTERVAL)
-  sleep TEMPO
 end
